@@ -10,8 +10,6 @@ npm-debug.log*
 .env
 
 # Build output
-dist/
-build/
 
 # Coverage reports
 coverage/
